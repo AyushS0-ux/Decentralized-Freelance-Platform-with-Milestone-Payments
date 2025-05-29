@@ -19,7 +19,7 @@ To eliminate intermediaries and ensure transparent, timely payments in the freel
 ## 🚀 Future Scope
 
 - Dispute resolution system
-- Rating and review module
+- Rating and review modules
 - Integration with decentralized identity (DID)
 - Frontend dApp interface for usability
 - Support for stablecoins and ERC-20 token payments
