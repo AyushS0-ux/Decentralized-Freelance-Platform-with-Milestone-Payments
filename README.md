@@ -1,4 +1,4 @@
-# Decentralized Freelance Platform with Milestone Payments
+# Decentralized Freelance Platform with Milestone Payment
 
 ## 📖 Project Description
 
