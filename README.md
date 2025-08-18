@@ -24,5 +24,5 @@ To eliminate intermediaries and ensure transparent, timely payments in the freel
 - Frontend dApp interface for usability
 - Support for stablecoins and ERC-20 token payments
 
-## Contract details
+## Contract detail
 0xDcf64336919559BCB6e1915471f2410d2A072011![alt text](image.png)
