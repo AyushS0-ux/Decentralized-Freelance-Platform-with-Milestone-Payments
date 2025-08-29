@@ -16,7 +16,7 @@ To eliminate intermediaries and ensure transparent, timely payments in the freel
 - Cancellation mechanism with refund for unpaid milestones
 - Transparent and immutable payment records
 
-## 🚀 Future Scopes
+## 🚀 Future Scope
 
 - Dispute resolution system
 - Rating and review modules
