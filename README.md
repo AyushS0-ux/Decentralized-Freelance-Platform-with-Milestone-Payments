@@ -8,7 +8,7 @@ This smart contract enables a trustless freelance platform where clients can hir
 
 To eliminate intermediaries and ensure transparent, timely payments in the freelance ecosystem by leveraging the power of smart contracts on blockchain.
 
-## 🔑 Key Features
+## 🔑 Key Feature
 
 - Project creation with multiple milestones
 - Clients deposit full project funds upfront
