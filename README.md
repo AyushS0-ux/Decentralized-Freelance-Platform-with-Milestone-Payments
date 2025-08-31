@@ -1,6 +1,6 @@
 # Decentralized Freelance Platform with Milestone Payment
 
-## 📖 Project Description
+## 📖 Project Descriptions
 
 This smart contract enables a trustless freelance platform where clients can hire freelancers and pay them securely through milestone-based payments. Each project is broken into multiple deliverables, and funds are released as milestones are completed.
 
